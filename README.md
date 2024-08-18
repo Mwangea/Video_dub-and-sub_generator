@@ -2,7 +2,11 @@
 
 ## Overview
 
-This project allows you to mix audio with video and add subtitles using MoviePy and other related tools. It provides a simple web interface using Flask for video processing, including handling subtitles and syncing audio. This README will guide you through setting up and running the project.
+This project allows you to mix audio with video and add subtitles using MoviePy and other related tools. It 
+
+https://github.com/user-attachments/assets/77f70b51-0aea-4645-9d2a-acd28a034f71
+
+provides a simple web interface using Flask for video processing, including handling subtitles and syncing audio. This README will guide you through setting up and running the project.
 
 ## features
 Mix audio with video.
